@@ -17,4 +17,7 @@ Ex. given the array [3, 2, 5, 8, 3] you can perform function x to element 1 and 
 sum right now : 3+2+5+8+3 = 21 
 cost right now: 0
 
-sum after 
+sum after function x to element 1 and function x to element 4: 3+0+5+8+(-3) = 16
+cost after function x to element 1 and function x to element 4: 2 + 5 = 7
+
+the player is competing with the algorithem (i wrote) which can produce a sum of 0 in the least cost
