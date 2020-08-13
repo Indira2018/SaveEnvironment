@@ -21,3 +21,4 @@ sum after function x to element 1 and function x to element 4: 3+0+5+8+(-3) = 16
 cost after function x to element 1 and function x to element 4: 2 + 5 = 7
 
 the player is competing with the algorithem (i wrote) which can produce a sum of 0 in the least cost
+In order to win, the player must use the same energy points as the algorithm
