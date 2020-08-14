@@ -1,5 +1,8 @@
 import java.util.Arrays;
 
+//Algorithm that produces a sum of 0 with the least cost
+//player is competing with this algorithm
+
 public class reduceEmissions {
 	
 	public static int solution(int [] a, int X, int Y) {
